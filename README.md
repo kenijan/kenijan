@@ -1,59 +1,117 @@
 <div align="center">
 
-# Hi there, I'm kenijan 👋
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · kenijan</sub></p>
+<h1>kenijan</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Full-stack developer on the rise | Django, Python, HTML, and CSS enthusiast
+ Exploring database management with MongoDB
+ Focused on building efficient,</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-### Frontend Developer from Siranka 🇱🇰
-
+<p><a href="https://github.com/kenijan">GitHub</a> &nbsp;·&nbsp; <a href="https://kenijan.web.app">Website</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/130461862?u=8885b8d03792e1ffb2e0272df3a46e37787d17fe&amp;v=4" width="180" alt="kenijan GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
+<h2>What teams can evaluate quickly</h2>
 
-## 🙋‍♂️ About Me
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · Python · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>22 repositories · 23 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>46 contributions · 15 active days</p></td>
+</tr>
+</table>
 
-> Passionate about building beautiful web experiences and trading tools.
+<p><sub>Full-stack developer on the rise | Django, Python, HTML, and CSS enthusiast
+ Exploring database management with MongoDB
+ Focused on building efficient,</sub></p>
 
-- 🔭 I'm currently working on **Building TradeVault Pro**
-- 🌱 I'm currently learning **React Native & Mobile Dev**
-- ⚡ Fun fact: I debug in production 😅
+<h2>Proof at a glance</h2>
 
----
+<table width="100%">
+<tr>
+<td width="25%" align="center"><strong>22</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>23</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>46</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-## 🔗 Connect with Me
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="kenijan GitHub proof metrics" />
+</picture>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kenijan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kenijan)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kenijan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kenijan)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kenijan.web.app/)
+<h2>Selected work</h2>
 
----
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&repos=kenijan%2Fkenijan&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&repos=kenijan%2Fkenijan&v=recruiter-projects-1&mode=dark" width="100%" alt="kenijan selected projects" />
+</picture>
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/kenijan/kenijan">kenijan</a></h3>
+<p>A selected public project.</p>
+<p><sub>⭐ 1 · 🍴 0</sub></p>
+<p><a href="https://github.com/kenijan/kenijan">Read the repository →</a></p>
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack
+<table width="100%">
+<tr>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML/CSS](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</tr>
+</table>
 
----
+<h2>Technical toolkit</h2>
 
-## 📊 GitHub Stats
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="kenijan technology stack" />
+</picture>
+</p>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>41% of public code</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>25% of public code</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>23% of public code</sub></td>
+<td width="20%" align="center"><strong>Shell</strong><br /><sub>6% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>6% of public code</sub></td>
+</tr>
+</table>
 
-![kenijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenijan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<h2>Consistency signal</h2>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kenijan&theme=tokyonight&hide_border=true)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=kenijan&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F130461862%3Fu%3D8885b8d03792e1ffb2e0272df3a46e37787d17fe%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="kenijan contribution activity" />
+</picture>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kenijan&layout=compact&theme=tokyonight&hide_border=true)
+<hr />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=kenijan&theme=tokyonight&no-frame=true&row=1)
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/kenijan">GitHub</a><br /><a href="https://kenijan.web.app">Website</a></td>
+</tr>
+</table>
 
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=kenijan&color=blueviolet&style=flat-square)
-
-*Thanks for visiting my profile! Let's build something awesome together. 🚀*
-
-</div>
+<p align="center"><sub>kenijan · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
